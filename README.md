@@ -1,8 +1,5 @@
-![./logo.svg](./logo.svg)
-<img src="./logo.svg">
-
-# Hi there 👋
-
+<img src="./Logo.svg" width=60 height=60/>
+# Heelloo
 
 - 🔭 I’m currently working on https://github.com/deter0/Music-Player
 - 🌱 I’m currently learning C++ & C
